@@ -1,0 +1,2 @@
+# Pi-hole
+DNS blocklist
